@@ -21,4 +21,4 @@ The purpose of this project is to demonstrate the knowledge of HTML/CSS which ar
 You can simply open the "index.html" file in any web browser to see the output of this code. If you want to make changes or customize it further then use HTML, CSS and JavaScript files separately
 You can simply open the index.html file in any web browser to see the output of this code.
 # output
-[](Screenshot%20(114).png)
+<img src="./Screenshot (114).png" alt="output"/>
